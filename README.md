@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-    <img src="./.github/landing-page.png" alt="Page Layout" width="400px">
+    <img src="https://github.com/GuiZeroUm/pass-in-web/blob/main/public/myproject.png" alt="Page Layout" >
 </p>
 
 <h2 id="started">📌 About</h2>
