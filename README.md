@@ -32,7 +32,7 @@ Here you describe how to run your project locally
 
 Here you list all prerequisites necessary for running your project. For example:
 
-- [NodeJS](https://github.com/)
+- [NodeJS](https://nodejs.org/en)
 - [Git](https://git-scm.com/)
 
 <h3>Cloning</h3>
@@ -40,8 +40,8 @@ Here you list all prerequisites necessary for running your project. For example:
 How to clone your project
 
 ```bash
-git clone https://github.com/Fernanda-Kipper/landing-page-ssr.git
-cd lading-page
+git clone https://github.com/GuiZeroUm/pass-in-web.git
+cd pass-in-web
 ```
 
 <h3>Starting</h3>
